@@ -29,3 +29,7 @@ pip install -r requirements.txt
 Run the app:
 
 streamlit run app.py
+
+
+<img width="873" height="679" alt="recommender ss2" src="https://github.com/user-attachments/assets/df45e349-1ca5-4051-887e-6250212fde49" />
+<img width="926" height="693" alt="recommender ss1" src="https://github.com/user-attachments/assets/8bf02ce1-1d4c-4f0c-b230-c734bf5dca1c" />
